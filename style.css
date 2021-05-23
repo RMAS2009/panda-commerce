@@ -1,0 +1,71 @@
+.container{
+    margin-bottom: 100px;
+    border-radius: 50px;
+}
+.org-bg{
+    background-color: #fceae8;
+}
+.carousel-item{
+    padding: 25px 40px;
+}
+.rate{
+    color: #FF136f;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    padding: 9px 25px;
+    border-radius: 10px;
+    border: none;
+}
+.cat1
+{
+  background-image: linear-gradient(to bottom,#ffa500,#e2a73b);
+}
+.cat2
+{
+    background-color: #da70d6;
+}
+.cat3
+{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.ctg h1{
+    color: white;
+}
+.ctg img{
+    width: 100px;
+}
+.cat1,.cat2,.cat3{
+    padding: 20px ;
+    border-radius: 15px;
+}
+.btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+}
+.price{
+    font-size: 30px;
+}
+.we{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+.card{
+    border: none;
+    box-shadow: 8px 8px 20px lightgreen;
+    border-radius: 10px;
+}
+.contact{
+    background-color: pink;
+    text-align: center;
+    padding: 50px 100px;
+    border-radius: 4px;
+}
+.ftr{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
